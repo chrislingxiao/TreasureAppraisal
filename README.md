@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://github.com/codercup2/unibest" target="_blank">unibest - 最好的 uniapp 开发框架</a>
+  <a href="https://github.com/codercup2/unibest" target="_blank">unibest - 最牛逼的鉴宝APP</a>
 </h1>
 
 <div align="center">
